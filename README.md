@@ -1,4 +1,3 @@
-#Aaryan2332
 This is my github First Repository
 <br>
 Author - Aaryan Sharma
